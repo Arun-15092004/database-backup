@@ -35,3 +35,16 @@ On your network server, you will have:
       ├── SQL Backups (.bak)
       ├── Application Files
       ├── WebApplication3\ (all code)
+      
+      technology used:
+1.ASP.NET Web Forms
+2.C# (Code-Behind)
+3.SQL Server
+4.ADO.NET
+5.System.IO (File Operations)
+6.Windows Network Share (UNC Paths)
+7.HTML
+8.CSS
+9.Bootstrap
+10.JavaScript / jQuery
+11.IIS / Localhost Hosting
